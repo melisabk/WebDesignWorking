@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+</head>
+<body>
+        <h1>My Blog</h1>
+    <br>
+
+        <h2>Melisa Büyükköprü</h2>
+    
+    <div>
+        <h3>About Me</h3> 
+        <p>My name is Melisa, 21. My department is software enginnering of third year in Ankara Science University. </p>
+        <hr>
+
+        <h4>My Experience</h4>
+        <p>Haziran 2023- Temmuz 2023  Dalak Games-- Game Developer Intern (Beginner game development) </p>
+        <p>Ekim 2022 -Mayıs 2023 Mercedes-Benz Koluman MotorluAraçlar Tic. Ve San. A. Ş. -- Software Department Intern (Making windowsform application, website, in-house operation applications)</p>
+        <p>2021 - 2022 Türkiye Teknoloji Takımı (T3) Vakfı -- Instructor in electronic programming, iOT, and advanced robotic coding</p>
+        <hr>
+
+        <h4>My Education</h4>
+        <p>2020 - Current Ankara Science University - Software Engineering </p>
+        <p>2020 - Current Anatolian University - Business Administrator </p>
+        <p>2022 Sisterslab -Women In TechAcademy - Veri Analysist Course</p>
+        <hr>
+
+        <h4>Software Languages</h4>
+        <p>Java(Intermediate), C++ (Beginner) , Pyhton (Intermediate) , C# (Intermediate) , SQL (Intermediate) ,
+            Unity (Beginner) </p>
+        <hr>
+
+            
+        <p>Dipnote: This is my first homepage demo for web design and programming course</p>
+        <p></p>
+        <p>This page is updating every week.</p>
+    </div>
+</body>
+</html>
+
